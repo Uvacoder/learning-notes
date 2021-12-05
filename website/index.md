@@ -10,3 +10,4 @@ Here you can explore the notes I took on books I read, talks I watch, articles I
 * [Books](./books/)
 * [Talks](./talks/)
 * [Papers](./papers/)
+* [Bookmarks](./bookmarks/)
