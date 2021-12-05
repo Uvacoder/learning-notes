@@ -1,6 +1,6 @@
 title: Notes
 description: >-
-  Keyvan Akbary learning notes
+  uvacoder learning notes and links
 permalink: pretty
 baseurl: /learning-notes
 
@@ -31,7 +31,7 @@ color_scheme: custom
 
 aux_links:
   "Learning Notes on GitHub":
-    - "//github.com/keyvanakbary/learning-notes"
+    - "//github.com/uvacoder/learning-notes"
 
 # Footer "Edit this page on GitHub" link text
 # gh_edit_link: true # show or hide edit this page link
@@ -61,4 +61,9 @@ defaults:
       path: "papers"
     values:
       parent: Papers
+      nav_exclude: true
+  - scope:
+      path: "bookmarks"
+    values:
+      parent: Bookmarks
       nav_exclude: true
